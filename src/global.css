@@ -32,6 +32,11 @@ body{
   -webkit-font-smoothing: antialiased;
 }
 
+h1{
+  -webkit-text-stroke-width: 0.5px;
+  -webkit-text-stroke-color: black;
+}
+
 input, button, textarea, select{
   font: 400 18px Roboto, sans-serif;
 }

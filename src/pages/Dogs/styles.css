@@ -7,7 +7,7 @@
   align-items: center;
   justify-content: center;
 }
-.dog-container .content{
+.content{
   width: 100%;
   padding: 96px;
   background: #f0f0f5;
@@ -22,26 +22,26 @@
   text-align: center;
 }
 
-.dog-container .content section{
+.section{
   width: 100%;
   max-width: 380px;
 }
 
-.dog-container .content section h1{
+section h1{
   text-align: center;
   margin: 16px 0 16px;
   font-size: 24px;
 }
 
-.dog-container .content form{
+form{
   width: 100%;
   max-width: 450px;  
 }
 
-.dog-container .content form .input-group { 
+.input-group { 
   display: flex;
 }
 
-.dog-container .content form .input-group select + select { 
+.input-group select + select { 
   margin-left: 8px;
 }
