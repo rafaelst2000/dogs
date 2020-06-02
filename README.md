@@ -6,6 +6,7 @@ Este é um projeto de teste utilizando da API Dogs, disponível em: https://dog.
 
 - Faça o clone do projeto para sua máquina;
 - Acesse o diretório clonado pelo seu terminal;
+- Dê o comando "npm install" (sem aspas);
 - Dê o comando "npm start" (sem aspas);
 - Caso o projeto não abra automaticamente no navegador, acesse localhost:3000
 
